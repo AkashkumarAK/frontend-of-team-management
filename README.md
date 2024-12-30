@@ -2,10 +2,28 @@
 
 A full-stack web application for managing teams and their members, featuring a React.js frontend and a Node.js backend. Allows users to add members with details like name, unique ID, team ID, and optional image uploads via file or camera. Integrated with MongoDB for efficient data management.
 
+
 ## Prerequisites
 
 Before running the project, make sure you have the following installed:
 Node.js (version X or above),npm or Yarn (for managing dependencies)
+
+ ## Implemented Features:
+  1.Navbar:\
+       -	Links for easy navigation (Team, Individual, Output).\
+   2.Member Form:\
+        o	Input fields for member name, unique ID, and team ID.\
+        o	File upload for selecting images.\
+        o	Camera input functionality for capturing images directly from the device.\
+        o	A Submit button styled with Bootstrap.\
+3. Team Form:\
+        o	Input fields for Team name,team ID, and organisation ID\
+        o	A Submit button styled with Bootstrap\
+4. Organisation Form:\
+        o	Input fields for Team name,team ID, and organisation ID\
+
+5.Hierarchial View:Gives a view of members related to a team of a particular organizarion\
+
 
 ### Getting Started
 Follow the steps below to get the project up and running on your local machine:
