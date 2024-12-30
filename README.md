@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# Team-Management-suite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A full-stack web application for managing teams and their members, featuring a React.js frontend and a Node.js backend. Allows users to add members with details like name, unique ID, team ID, and optional image uploads via file or camera. Integrated with MongoDB for efficient data management.
 
-## Available Scripts
+## Prerequisites
 
-In the project directory, you can run:
+Before running the project, make sure you have the following installed:
+Node.js (version X or above),npm or Yarn (for managing dependencies)
+
+### Getting Started
+Follow the steps below to get the project up and running on your local machine:
+1. Download the Zip file
+2. Install Dependencies:Run the following command to install the necessary dependency -- npm install
+3. Run VScode using npm start
 
 ### `npm start`
 
